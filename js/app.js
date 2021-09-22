@@ -1,4 +1,4 @@
-//load the web api manually
+//load the web api manually--
 const loadProducts = () => {
   const data = [
     {
