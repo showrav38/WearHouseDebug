@@ -230,7 +230,7 @@ const showProducts = products => {
   }
 };
 
-// work of add to cart button
+// work of add to cart button--
 let count = 0;
 const addToCart = (id, price) => {
   count = count + 1;
