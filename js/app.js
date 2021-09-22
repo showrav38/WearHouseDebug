@@ -249,7 +249,7 @@ const getInputValue = id => {
   return converted;
 };
 
-// main price update function
+// main price update function--
 const updatePrice = (id, value) => {
   const convertedOldPrice = getInputValue(id);
   const convertPrice = parseFloat(value);
